@@ -1,0 +1,23 @@
+{
+  "name": "week6",
+  "version": "1.0.0",
+  "description": "game of war",
+  "main": "Game_of_War.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MomPrismPower/week6.git"
+  },
+  "author": "Leah Nassar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MomPrismPower/week6/issues"
+  },
+  "homepage": "https://github.com/MomPrismPower/week6#readme",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}

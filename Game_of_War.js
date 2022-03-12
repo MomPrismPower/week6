@@ -1,6 +1,7 @@
 // Game of War
 // Leah Nassar, Week 6 Primeo Tech BootCamp
-// 
+// March 12, 2022
+//
 // Game Requirements:
 // Deal 26 cards to 2 players from a Deck of 52 cards
 // Iterate through turns where each Player plays a cards
