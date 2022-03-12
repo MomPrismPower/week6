@@ -61,15 +61,15 @@ class Card {
 		}
 	// compare one card to another card - return true of the value is ==
 	equals(anotherCard){
-		return this.value == anotherCard.value;
+		return parseInt(this.value) == parseInt(anotherCard.value);
 	}		
 	// compare one card to another - return true if this card is greater than the other
 	greaterThan(anotherCard){
-		return this.value > anotherCard.value;
+		return parseInt(this.value) > parseInt(anotherCard.value);
 	}
 	// compare one card to another - return true if this card is less than the other
 	lessThan(anotherCard){
-		return this.value < anotherCard.value;
+		return parseInt(this.value) < parseInt(anotherCard.value);
 	}
 }
 
